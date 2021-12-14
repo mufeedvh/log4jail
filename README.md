@@ -20,6 +20,8 @@ A fast firewall reverse proxy with TLS (HTTPS) and swarm support for preventing 
 
 ## Installation
 
+Download the binary for your OS from [**Releases**](https://github.com/mufeedvh/log4jail/releases) OR Install with `cargo`:
+
     $ cargo install --git https://github.com/mufeedvh/log4jail.git
     
 [Install Rust/Cargo](https://rust-lang.org/tools/install)
