@@ -1,0 +1,12 @@
+{
+  "host": "127.0.0.1",
+  "enable_https": false,
+  "tls_cert_path": "cert.pem",
+  "tls_key_path": "key.rsa",
+  "reject_response_status": 403,
+  "reject_response_body": "This request has been blocked.",
+  "proxy_mapping": {
+    "1337": "http://127.0.0.1:8080/",
+    "6969": "http://127.0.0.1:9000/"
+  }
+}
