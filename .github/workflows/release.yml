@@ -1,4 +1,4 @@
-name: log4jail Release Action
+name: Log4Jail Release Action
 
 on:
   push:
